@@ -53,8 +53,8 @@ La API ofrece varios puntos finales que brindan funcionalidades únicas para la 
 - sweetviz
 - wordcloud
     
-#LICENCIA
-
+## LICENCIA
+   Este proyecto está autorizado bajo la GNU GENERAL LICENSE Version 2, June 1991. [Ver mas](https://github.com/Juliana43/PI01-MLOps/blob/main/LICENSE "Ver mas")
     
     
     
